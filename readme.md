@@ -6,3 +6,4 @@ This is an HTML class exercise.
 
 -Embed Video.
 -Play Audio.
+-Google Map
